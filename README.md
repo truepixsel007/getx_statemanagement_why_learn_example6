@@ -1,0 +1,2 @@
+# getx_statemanagement_why_learn_example6
+getx_statemanagement_why_learn_example6
